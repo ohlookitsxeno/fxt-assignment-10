@@ -1,0 +1,11 @@
+torch
+torchvision
+open-clip-torch
+pandas
+Pillow
+ipython
+tqdm
+ipykernel
+nltk
+flask
+scikit-learn

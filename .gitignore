@@ -1,0 +1,5 @@
+__pycache__/
+meowenv/
+coco_images_resized.zip
+coco_images_resized/*
+image_embeddings.pickle
